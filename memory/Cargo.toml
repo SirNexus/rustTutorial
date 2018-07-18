@@ -1,0 +1,6 @@
+[package]
+name = "memory"
+version = "0.1.0"
+authors = ["aidancarson <aidan.carson@nginx.com>"]
+
+[dependencies]
